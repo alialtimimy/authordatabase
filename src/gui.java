@@ -7,6 +7,9 @@ import java.awt.event.MouseListener;
 import java.util.ArrayList;
 import keeptoo.KButton;
 import java.awt.MouseInfo;
+//Deliver it with how to use it (user and technical application) (how to run it).doc file
+//The code itself
+//how many hours and what was those hours spent on
 
 
 public class gui extends Main implements MouseListener, ActionListener {
